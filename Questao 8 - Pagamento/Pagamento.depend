@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\aluno\desktop\pagamento\main.cpp
+	<iostream>
+
+1534626580 source:c:\users\ezequ\desktop\pagamento\main.cpp
+	<iostream>
+	"ControleDePagamentos.h"
+	"Pagamento.h"
+
+1534626370 source:c:\users\ezequ\desktop\pagamento\src\pagamento.cpp
+	"Pagamento.h"
+	<string>
+
+1534626370 c:\users\ezequ\desktop\pagamento\include\pagamento.h
+	<string>
+
+1534625385 source:c:\users\ezequ\desktop\pagamento\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+	<string>
+
+1534625605 c:\users\ezequ\desktop\pagamento\include\controledepagamentos.h
+	"Pagamento.h"
+	<string>
+
