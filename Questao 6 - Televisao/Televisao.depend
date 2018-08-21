@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534822334 source:c:\ezequiel\code blocks\roteiro1\televisao\main.cpp
+	<iostream>
+	"Televisao.h"
+
+1534822807 c:\ezequiel\code blocks\roteiro1\televisao\include\televisao.h
+
+1534822761 source:c:\ezequiel\code blocks\roteiro1\televisao\src\televisao.cpp
+	"Televisao.h"
+

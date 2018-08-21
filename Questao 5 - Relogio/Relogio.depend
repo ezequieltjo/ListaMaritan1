@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1534820291 source:c:\ezequiel\code blocks\roteiro1\relogio\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1534820154 source:c:\ezequiel\code blocks\roteiro1\relogio\src\relogio.cpp
+	"Relogio.h"
+
+1534820154 c:\ezequiel\code blocks\roteiro1\relogio\include\relogio.h
+
